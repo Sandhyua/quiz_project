@@ -24,13 +24,11 @@ Users can attempt quizzes in different categories (Python, Django, HTML, CSS, Ja
 ---
 
 ## 📸 Screenshots
-
+(![Uploading quiz_project.png…]())
 ### Quiz Interface
 
-(![Uploading quiz_project.png…]())
 *(Add a screenshot of your running app here)*
 
----
 
 ## ⚙️ Installation & Setup
 
@@ -119,7 +117,7 @@ quiz-app/
 ## 👨‍💻 Author
 
 Developed by **[Sandhya]** ✨
-🔗 [LinkedIn]((https://www.linkedin.com/in/sandhya-raj-7389a52a2)) | [GitHub](https://Sandhyua.com)
+🔗 [LinkedIn](https://sandhya-raj-7389a52a2.com) | [GitHub](https://Sandhyua.com)
 
 ---
  Thnaku you
