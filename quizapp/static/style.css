@@ -1,0 +1,35 @@
+.card-question {
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  margin-bottom: 16px;
+  padding: 16px;
+  background: #ffffff;
+}
+
+.option-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.option-wrapper input[type="radio"] {
+  margin-right: 10px; /* space between radio and text */
+}
+
+.option-label {
+  cursor: pointer;
+}
+
+.correct {
+  border-left: 6px solid #28a745;
+  background-color: #eef9ef;
+}
+
+.incorrect {
+  border-left: 6px solid #dc3545;
+  background-color: #fff5f5;
+}
+
+#result-area .card {
+  padding: 12px;
+}
